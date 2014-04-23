@@ -1,0 +1,9 @@
+body {
+	background-color: blue;
+}
+
+.nav{
+	font-size: 30px;
+	padding-left: 50px;
+}
+p {text-decoration: underline}
